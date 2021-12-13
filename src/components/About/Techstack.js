@@ -1,6 +1,5 @@
 import React from 'react'
 import { Col, Row } from 'react-bootstrap'
-import { CgCPlusPlus, CgGitBranch } from 'react-icons/cg'
 import {
   DiJavascript1,
   DiReact,
@@ -11,14 +10,11 @@ import {
   DiJqueryLogo,
   DiHtml5,
   DiCss3,
-  DiExtjs,
-  DiGithubAlt,
   DiBootstrap,
   DiGit,
   DiGithub,
   DiFirebase,
 } from 'react-icons/di'
-import { SiFirebase } from 'react-icons/si'
 
 function Techstack() {
   return (
