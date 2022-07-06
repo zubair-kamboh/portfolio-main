@@ -20,16 +20,14 @@
 
 ## Built With
 
-My personal portfolio <a href="http://www.zubairkamboh.com" target="_blank">zubairkamboh.com</a> which features some of my github projects as well as my resume and technical skills.<br/>
+My personal portfolio website which features some of my github projects as well as my resume and technical skills.<br/>
 
 This project was built using these technologies.
 
 - React.js
-- Node.js
-- Express.js
+- React bootstrap
 - CSS3
-- VsCode
-- Vercel
+- Firebase
 
 ## Features
 
